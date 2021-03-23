@@ -3,3 +3,5 @@ World
 Peace
 Girl
 Attitude
+Bold
+strong
